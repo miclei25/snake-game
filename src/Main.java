@@ -3,7 +3,7 @@ import javafx.scene.Scene;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-public class App extends Application {
+public class Main extends Application {
     public static void main(String[] args) throws Exception {
         launch(args);
     }

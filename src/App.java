@@ -11,8 +11,8 @@ public class App extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         StackPane root = new StackPane();
-        primaryStage.setTitle("Hello World");
-        primaryStage.setScene(new Scene(root, 800, 600));
+        primaryStage.setTitle("Snake Game");
+        primaryStage.setScene(new Scene(root, 950, 700));
         primaryStage.show();
     }
 }
